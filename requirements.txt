@@ -1,5 +1,5 @@
-Flask
-tensorflow
+flask
+tensorflow-cpu
 numpy
-Pillow
 opencv-python
+Pillow
