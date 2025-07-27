@@ -1,0 +1,5 @@
+Waste_Classification.ipynb linguist-generated=true
+
+app.py linguist-language=Python
+model/*.py linguist-language=Python
+templates/*.html linguist-language=HTML
