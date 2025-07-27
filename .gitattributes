@@ -1,8 +1,7 @@
-Waste_Classification.ipynb linguist-generated=true
+Waste_Classification.ipynb linguist-language=Jupyter Notebbok
 
 app.py linguist-language=Python
 model/*.py linguist-language=Python
 
-templates/*.html linguist-language=HTML
 
 
