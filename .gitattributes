@@ -3,4 +3,4 @@ notebook/Waste_Classification.ipynb linguist-generated=true
 app.py linguist-language=Python
 model/garbageClassification_model.py linguist-language=Python
 
-templates/*.html linguist-documentation
+templates/home.html linguist-documentation
