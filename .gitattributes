@@ -2,6 +2,6 @@
 notebook/Waste_Classification.ipynb linguist-language=Jupyter Notebook
 
 app.py linguist-language=Python
-model/*.py linguist-language=Python
+model/garbageClassification_model.py linguist-language=Python
 
 templates/*.html linguist-documentation
