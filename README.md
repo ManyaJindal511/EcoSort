@@ -41,7 +41,7 @@ The model is trained to classify into the following **6 material-based classes**
 
 | Layer       | Technology                  |
 |-------------|------------------------------|
-| Frontend    | HTML, CSS, Bootstrap 5       |
+| Frontend    | HTML, CSS, JavaScript, Bootstrap 5       |
 | Backend     | Python, Flask                |
 | Model       | MobileNetV2 (Keras + TensorFlow) |
 | Deployment  | Render.com                   |
