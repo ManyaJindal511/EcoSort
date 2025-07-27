@@ -1,31 +1,29 @@
-# 🌿 EcoSort - Smart Waste Classification using Deep Learning
+# ♻️EcoSort - Smart Waste Classification using Deep Learning
 
 **EcoSort** is a web-based deep learning app that classifies waste images into **material-based classes** like plastic, paper, metal, etc. It also provides eco-awareness by labeling waste as **Biodegradable** or **Non-Biodegradable** and offers **recycling tips** to help users make environmentally responsible decisions.
-
-![EcoSort Banner](https://via.placeholder.com/1000x300?text=EcoSort+Waste+Classifier)
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Click to Try EcoSort]([https://ecosort.onrender.com](https://ecosort-1dzm.onrender.com/))  
+👉 [Click to Try EcoSort](https://ecosort.onrender.com](https://ecosort-1dzm.onrender.com/)  
 _🚀 Hosted on Render_
 
 ---
 
 ## 🧠 Model Overview
 
-- ✅ **Accuracy**: ~94% on validation data
-- 🧱 **Architecture**: MobileNetV2 (Transfer Learning)
-- 📐 **Input Shape**: 224×224 RGB
-- ⚙️ **Framework**: TensorFlow / Keras
-- 📊 **Loss Function**: Categorical Crossentropy
-- 🧪 **Optimizer**: Adam
-- 📁 **Dataset Used**: [Garbage Classification - Kaggle](https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data)
+- **Accuracy**: ~94% on validation data
+- **Architecture**: MobileNetV2 (Transfer Learning)
+- **Input Shape**: 224×224 RGB
+- **Framework**: TensorFlow / Keras
+- **Loss Function**: Categorical Crossentropy
+- **Optimizer**: Adam
+- **Dataset Used**: [Garbage Classification - Kaggle](https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data)
 
 ---
 
-## ♻️ Classes & Categories
+## Classes & Categories
 
 The model is trained to classify into the following **6 material-based classes**:
 
@@ -50,6 +48,4 @@ The model is trained to classify into the following **6 material-based classes**
 | Deployment  | Render.com                   |
 
 ---
-
-## 📁 Project Structure
 
