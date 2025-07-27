@@ -1,13 +1,15 @@
-# ♻️EcoSort - Smart Waste Classification using Deep Learning
+# ♻️ EcoSort - Smart Waste Classification using Deep Learning
 
-**EcoSort** is a web-based deep learning app that classifies waste images into **material-based classes** like plastic, paper, metal, etc. It also provides eco-awareness by labeling waste as **Biodegradable** or **Non-Biodegradable** and offers **recycling tips** to help users make environmentally responsible decisions.
+**EcoSort** is a web-based deep learning app that classifies waste images into **material-based categories** like plastic, paper, metal, etc.  
+It intelligently maps each to **Biodegradable** or **Non-Biodegradable**, and offers useful **recycling tips** to promote sustainability.  
+Powered by a **MobileNetV2** model with **~94%** validation accuracy, EcoSort helps users make informed, eco-friendly decisions in real time.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Click to Try EcoSort](https://ecosort.onrender.com](https://ecosort-1dzm.onrender.com/)  
-_🚀 Hosted on Render_
+👉 [Try EcoSort Now (Deployed on Render)](https://ecosort-1dzm.onrender.com)  
+_🚀 Hosted live with integrated Flask backend and trained model_
 
 ---
 
